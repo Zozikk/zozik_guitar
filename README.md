@@ -13,7 +13,7 @@ Script written in lua to fivem. The script allows you to play music available fr
 Add this to your `server.cfg`:
 
 ```lua
-ensure esx_banking
+ensure zozik_guitar
 ```
 
 ## Database
