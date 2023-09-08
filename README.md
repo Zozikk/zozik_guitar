@@ -7,7 +7,6 @@ Script written in lua to fivem. The script allows you to play music available fr
 
 Watch results [Click to watch preview](https://streamable.com/4wz1bl).
 
-https://streamable.com/4wz1bl
 
 ## Download
 
