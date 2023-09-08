@@ -3,7 +3,9 @@
 
 Script written in lua to fivem. The script allows you to play music available from the list. The character can move while changing the location of the sound being played.
 
-## PREVIEW
+## Links
+
+Watch results [Click to watch preview](https://streamable.com/4wz1bl).
 
 https://streamable.com/4wz1bl
 
