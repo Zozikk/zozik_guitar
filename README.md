@@ -24,7 +24,8 @@ ensure zozik_guitar
 ```
 
 ## Database
-Add an item to your database: `guitar`.
+Add an item to your database: `guitar` and `electricguitar`.
+
 
 ## Requirements
 
