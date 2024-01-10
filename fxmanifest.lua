@@ -8,9 +8,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name 'Local Mechanic System'
+name 'Zozik guitar'
 author 'Zozik.'
-description 'Script to repair car when no mechanic online'
+description 'Script for playing on guitar'
 
 server_script {
   'server.lua'
